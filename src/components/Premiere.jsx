@@ -12,6 +12,18 @@ function Premiere() {
           Watch new movies at home, every Friday
         </b>
       </div>
+      <div className="text-white mx-4 ">
+        <h2 className="text-4xl font-mono">Premiere</h2>
+        <b className="font-sans text-sm">
+          Watch new movies at home, every Friday
+        </b>
+      </div>
+      <div className="text-white mx-4 ">
+        <h2 className="text-4xl font-mono">Premiere</h2>
+        <b className="font-sans text-sm">
+          Watch new movies at home, every Friday
+        </b>
+      </div>
     </div>
   );
 }
