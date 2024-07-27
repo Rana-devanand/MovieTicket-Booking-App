@@ -29,7 +29,7 @@ function Footer() {
       </div>
       <div className="flex justify-center items-start text-white pt-3 text-sm">
         <b>Copyright 2024 XYZ Entertainment Pvt. Ltd. All Rights Reserved.</b>
-        <b>THis is only for demo purpose</b>
+        <b>THis is only for demo purpose. 2024</b>
       </div>
       <p className="pt-1 font-sans text-white text-sm">
         The content and images used on this site are copyright protected and
